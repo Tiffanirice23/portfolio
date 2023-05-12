@@ -2,19 +2,20 @@
     "basic_info": {
       "name": "Tiffani Rice",
       "titles": [ "Software Developer" ],
+      "introduction": [ "Hello! I am Tiffani Rice, an adaptable Full Stack Software Developer with a passion for solving complex problems, bringing people together, and creating scalable and sustainable programs."],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Tiffanirice23",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/tiffani-n-rice/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "ProfilePic.jpeg"
     },
     "skills": {
       "icons": [

@@ -92,7 +92,7 @@ class App extends Component {
           <Route 
             path="/about" 
             element={<About
-              balack={this.state.resumeData.basic_info}
+              resumeBasicInfo={this.state.resumeData.basic_info}
               sharedBasicInfo={this.state.sharedData.basic_info}
             />}>
           </Route>

@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Switch from "@brookr/react-switch";
 import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
+import './Header.css';
+
 
 class Header extends Component {
   titles = [];

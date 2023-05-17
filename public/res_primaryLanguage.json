@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Odd Duck",
+        "title": "TheLazyTravelers",
         "startDate": "April 2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most expanded application I had opportunity to work with, in a team environment at Code Fellows. This application allows users to view vaious vacation images, and vote on their favorite spot! Once voting as commenced, the user will be able to view details on the location, as well as information on how to book a flight and rent a hotel in that area. ",
         "images": [
           "images/portfolio/LT_img1.jpeg",
           "images/portfolio/LT_img2.jpeg"
@@ -21,23 +21,15 @@
         "url": "https://thelazydevelopers.github.io/lazy-travelers/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "Odd Duck Products",
+        "title": "Odd Duck",
         "startDate": "April 2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Personal study project for Code Fellows that allows a user to vote 25 times on a favorite novelty product, after which a chart will render detailing their top choices.",
         "images": [
           "images/portfolio/OD_img1.jpeg",
           "images/portfolio/OD_img2.png",
@@ -45,10 +37,8 @@
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
+          
+  
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -58,25 +48,14 @@
       {
         "title": "301 Project",
         "startDate": "May 2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "A project to be announced in the coming weeks",
         "images": [
           "https://place-hold.it/5000x50/ddd",
           "https://place-hold.it/360x350/ddd"
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+  
         ]
       }
     ],
@@ -108,7 +87,7 @@
       {
         "company": "King Aero Management Corp",
         "title": "Order Manager",
-        "years": "4.2017 - 7.2019",
+        "years": "3.2017 - 7.2019",
         "mainTech": [
           ""
         ],

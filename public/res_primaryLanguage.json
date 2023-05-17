@@ -48,25 +48,14 @@
       {
         "title": "301 Project",
         "startDate": "May 2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "A project to be announced in the coming weeks",
         "images": [
           "https://place-hold.it/5000x50/ddd",
           "https://place-hold.it/360x350/ddd"
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+  
         ]
       }
     ],

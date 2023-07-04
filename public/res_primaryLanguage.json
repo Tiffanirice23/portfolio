@@ -46,9 +46,9 @@
         ]
       },
       {
-        "title": "301 Project",
+        "title": "JarJar Beats",
         "startDate": "June 2023",
-        "description": "A project to be announced in the coming weeks",
+        "description": "An app that allows users to search for an artist's top songs and add items to a customized playlist.",
         "images": [
           "images/portfolio/JJ_img1.jpeg",
           "images/portfolio/JJ_img2.jpeg",
@@ -69,7 +69,11 @@
           {
             "class": "devicon-nodejs-plain",
             "name": "NodeJS"
-          }
+          },
+        {
+          "class": "devicon-auth0-plain",
+          "name": "Auth0"
+        }
 
         ]
       }

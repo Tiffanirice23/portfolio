@@ -109,6 +109,7 @@ $content-background-color: #8C8C8C;
       height: auto;
     }
   }
+  
   &__content {
     @extend %fill-parent;
     background-color: var(--content-background-color);

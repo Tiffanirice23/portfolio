@@ -1,8 +1,8 @@
 {
     "basic_info": {
-      "name": "Tiffani Rice",
+      "name": "Tiffani Rice | Front-end Full Stack Developer",
       "titles": [ "" ],
-      "introduction": [ " I am an adaptable Full Stack Software Developer with a passion for solving complex problems, bringing people together, and creating scalable and sustainable programs."],
+      "introduction": [ "I am a dynamic, detail-oriented Full Stack Software Developer with a calm demeanor, experienced with managing several projects simultaneously. I have worked continually since February 2023 to improve my portfolio pieces and coding skillset, and invite you all to check out what I'm capable of!"],
       "social": [
         {
           "name": "github",
@@ -13,9 +13,15 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/tiffani-n-rice/",
           "class": "fab fa-linkedin"
+        },
+
+        {
+          "name": "Leetcode",
+          "url": "https://leetcode.com/tiffaknee",
+          "class": "fa fa-binoculars"
         }
       ],
-      "image": "ProfilePic.jpeg"
+      "image": "PFP_new.jpg"
     },
     "skills": {
       "icons": [
@@ -39,6 +45,41 @@
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "Typescript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
           "level": "85"
         }
     

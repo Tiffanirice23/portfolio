@@ -17,15 +17,20 @@ html {
 
 .title-container {
 	height: 50px;
-	color: rgb(255, 255, 255);
-	font-size: 18px;
+	color: #104a84;
+	padding: 10px;
+	font-size: 20px;
+	font-weight: bolder;
+	font-family: 'Courier New', Courier, monospace;
 	width: 600px;
 	margin: 0 auto;
 	height: auto;
 	text-align: center;
-	background-color: rgb(7, 44, 81);
+	background-color: #ffffff;
+	border: 2px solid #735d78;
 	margin-top: 30px;
 	font-weight: 300;
+	
 	// margin-left: 50px;
 }
 
@@ -35,13 +40,15 @@ html {
 }
 
 .header-icon {
-	height: 150px;
-	width: 150px;
+	height: 250px;
+	width: 250px;
+	color: #735d78;
+	
 }
 
 header {
 	position: relative;
-	// height: 300px;
+	height: 300px;
 	// min-height: 300px;
 	width: 100%;
 	background-size: cover;
@@ -82,8 +89,8 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
-	color: white;
+	background-color: #ffffff;
+	color: #735d78;
 }
 
 .skills-tile {
@@ -104,8 +111,11 @@ header .nav {
 header h1 {
 	font-size: 4rem;
 	// text-align: center;
-	font-weight: 600 !important;
-	color: #ffffff;
+	font-weight: 800 !important;
+	background-image: linear-gradient(to left, #38b0e7, #022565);
+  background-clip: text;
+  -webkit-background-clip: text; /* For Safari/Chrome */
+  color: transparent;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	// margin-left: 50px;
@@ -152,7 +162,8 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #d1b3c4;
+	border: 2px solid black;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -202,7 +213,8 @@ header h1 {
 
 .polaroid span {
 	// background: #ffffff;
-	background: rgb(7, 44, 81);
+	background: #658ba3;
+	border: 2px solid rgb(128, 127, 127);
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -245,7 +257,7 @@ header h1 {
 }
 
 #resume {
-	background-color: rgb(7, 44, 81);
+	background-color: #735d78;
 }
 
 .experience-icon {
@@ -277,8 +289,10 @@ header h1 {
 }
 
 .vertical-timeline-element-date {
-	padding: 0 !important;
-	margin: 0 !important;
+	margin: 5px;
+	font-size: 35px;
+	padding: 5px;
+	color: rgb(0, 0, 0);
 }
 
 @media only screen and (max-width: 1170px) {
@@ -290,7 +304,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: rgb(4, 4, 4);
 }
 
 .bars {
@@ -351,7 +365,7 @@ header h1 {
 	text-align: justify;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 15px;
 }
 
 .awssld__next {
@@ -367,7 +381,7 @@ header h1 {
 }
 
 #portfolio {
-	background-color:rgb(7, 44, 81);
+	background-color:#735d78;
 	padding-bottom: 5%;
 }
 
@@ -390,7 +404,7 @@ header h1 {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-	font-size: 1.5rem;
+	 font-size: 1.5rem;
 }
 
 @media (min-width: 576px) {
@@ -407,6 +421,7 @@ header h1 {
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
+	display: block;
 	padding-bottom: 10%;
 }
 
@@ -450,12 +465,14 @@ footer a:focus {
 
 .social-links {
 	margin-top: 10px;
+	padding: 20px;
 	font-size: 22px;
 }
 
 
 .nav-link {
-	color: rgb(251, 251, 251) !important;
+	color: rgb(6, 138, 209) !important;
+	font-weight: 700;
 }
 
 .section-title span {

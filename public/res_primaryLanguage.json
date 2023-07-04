@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 Hello! I am Tiffani Rice, an adaptable Full Stack Software Developer with a passion for solving complex problems, inclusively bringing people together, and creating scalable programs. With 7 years of experience in the aviation industry and an intensive acquired education in software development from Code Fellows, I help bring a unique perspective and a fresh set of skills to any team.",
+      "description_header": "Hi, how are ya?",
+      "description": "👋 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. In February 2023, I decided to switch gears and pursue a formal education in software development because I wanted a career that would give me continuous challenges on a day to day basis, and stand the test of time! My experience in bringing people together in order to solve problems under pressure, my ability to create environments of inclusion, and my dedication to creating accessible and sustainable programs  are the reasons you should want me on your team. In my spare time, I enjoy listening to debate and true crime podcasts, staying in touch with my culinary side by attempting new meals with my family and spending time at the dog park with my husky, Ghost!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -47,15 +47,30 @@
       },
       {
         "title": "301 Project",
-        "startDate": "May 2023",
+        "startDate": "June 2023",
         "description": "A project to be announced in the coming weeks",
         "images": [
-          "https://place-hold.it/5000x50/ddd",
-          "https://place-hold.it/360x350/ddd"
+          "images/portfolio/JJ_img1.jpeg",
+          "images/portfolio/JJ_img2.jpeg",
+          "images/portfolio/JJ_img3.jpeg",
+          "images/portfolio/JJ_img4.jng"
         ],
-        "url": "https://github.com",
+        "url": "https://jarjarbeats.netlify.app",
         "technologies": [
-  
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+
         ]
       }
     ],
@@ -88,6 +103,30 @@
         "company": "King Aero Management Corp",
         "title": "Order Manager",
         "years": "3.2017 - 7.2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+    
+        ]
+      },
+
+      {
+        "company": "Publix",
+        "title": "'Aprons' Meals Associate",
+        "years": "10.2015 - 5.2017",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+    
+        ]
+      },
+
+      {
+        "company": "Navy Federal Credit Union",
+        "title": "Member Service Representative",
+        "years": "01.2014 - 10.2014",
         "mainTech": [
           ""
         ],

@@ -1,4 +1,4 @@
-body[data-theme="dark"] {  
+body[data-theme="dark"] {
 
    @import '/src/scss/dark-slider.scss';
 
@@ -11,8 +11,37 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #000000;
       opacity: 0.8;
+   }
+
+   header {
+      background-image: url("../../../public/images/test2.jpeg");
+      display: block;
+      margin: 0px auto;
+
+      .title-container {
+         height: 50px;
+         color: #e8dfe4;
+         padding: 10px;
+         font-size: 20px;
+         font-weight: bolder;
+         font-family: 'Courier New', Courier, monospace;
+         width: 600px;
+         margin: 0 auto;
+         height: auto;
+         text-align: center;
+         background-color: #392d3b;
+         border: 2px solid black;
+         margin-top: 30px;
+         font-weight: 300;
+         // margin-left: 50px;
+      }
+
+      .nav-link {
+         color: #d1b3c4 !important;
+         font-weight: 700;
+      }
    }
 
    .slider-image {
@@ -34,33 +63,44 @@ body[data-theme="dark"] {
 
    header {
       background-color: #494949;
+
       h1 {
-         color: white;
+         background-image: linear-gradient(to right, #7704a0b1, #fdfbfb);
+         background-clip: text;
+         -webkit-background-clip: text;
+         /* For Safari/Chrome */
+         color: transparent;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #392d3b;
+
       h1 span {
          color: white;
       }
+
       .polaroid span {
-         background:  #6d6d6d;
+         background: #8c8b8c;
       }
+
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #f0eeee;
+         color: rgb(9, 9, 9)
       }
    }
 
    #portfolio {
       background: #5b5b5b;
+
       .section-title {
          color: white !important;
       }
+
       .foto div {
-         background: #6d6d6d;
+         background: #392d3b;
       }
+
       .project-title-settings {
          color: white;
       }
@@ -69,6 +109,7 @@ body[data-theme="dark"] {
    #resume {
       filter: brightness(80%);
       background: #5b5b5b;
+
       .section-title {
          color: white !important;
       }
@@ -83,13 +124,17 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-date {
+         margin: 5px;
+         font-size: 15px;
+         padding: 5px;
          color: white;
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #392d3b !important;
       }
-      @media only screen and (max-width: 1169px) { 
+
+      @media only screen and (max-width: 1169px) {
          .vertical-timeline-element-date {
             color: black;
          }

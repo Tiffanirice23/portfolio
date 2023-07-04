@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
+import nodejsIcon from "@iconify/icons-logos/nodejs";
+import mongodbIcon from "@iconify/icons-logos/mongodb";
 
 
 class About extends Component {
@@ -30,18 +32,18 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  {/* <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }} */}
-                  {/* /> */}
+                    <Icon
+                      icon={reactIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
                   <Icon
-                    icon={reactIcon}
+                    icon={nodejsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
-                  {/* <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }} */}
-                  {/* /> */}
+                  <Icon
+                    icon={mongodbIcon}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+                  />
                 </span>
               </div>
             </div>
@@ -80,7 +82,7 @@ class About extends Component {
                     <span className="wave">{hello} </span>
                     <br />
                     <br />
-                    {about}
+                    <p>{about}</p>
                   </div>
                 </div>
               </div>

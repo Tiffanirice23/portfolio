@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi, how are ya?",
-      "description": "👋 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. In February 2023, I decided to switch gears and pursue a formal education in software development because I wanted a career that would give me continuous challenges on a day to day basis, and stand the test of time! My experience in bringing people together in order to solve problems under pressure, my ability to create environments of inclusion, and my dedication to creating accessible and sustainable programs  are the reasons you should want me on your team. In my spare time, I enjoy listening to debate and true crime podcasts, staying in touch with my culinary side by attempting new meals with my family and spending time at the dog park with my husky, Ghost!",
+      "description_header": "Dynamic Self Starter from Florida!",
+      "description": "👋 Hello everyone! My name is Tiffani Rice and I am a full stack developer currently living in the greater Seattle area. I possess 7 years of prior experience with aviation companies, such as General Electric, specializing in large scale, project coordination, personnel management, and customer support. In March, I made a switch into studying tech because I wanted a career that would intellectually keep me stimulated and after completing the full stack course at CodeFellows, I can safely say that I have found JUST THAT in being a developer. When I am not studing software deveopement, my relaxation go tos are exploring beautiful Washington parks, watching TikToks for a questionable amout of time, or listening to true crime or comedy podcasts ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,12 +13,12 @@
       {
         "title": "TheLazyTravelers",
         "startDate": "April 2023",
-        "description": "The most expanded application I had opportunity to work with, in a team environment at Code Fellows. This application allows users to view vaious vacation images, and vote on their favorite spot! Once voting as commenced, the user will be able to view details on the location, as well as information on how to book a flight and rent a hotel in that area. ",
+        "description": "The most expanded application I had opportunity to work with, in a team environment at Code Fellows. This application allows users to view vaious vacation images, and vote on their favorite spot! Once voting has commenced, the user will be able to view details on the location, as well as information on how to book a flight and rent a hotel in that area. ",
         "images": [
           "images/portfolio/LT_img1.jpeg",
           "images/portfolio/LT_img2.jpeg"
         ],
-        "url": "https://thelazydevelopers.github.io/lazy-travelers/",
+        "url": "https://tiffanirice23.github.io/lazy-travelers",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -27,15 +27,15 @@
         ]
       },
       {
-        "title": "Odd Duck",
+        "title": "City Explorer API",
         "startDate": "April 2023",
         "description": "Personal study project for Code Fellows that allows a user to vote 25 times on a favorite novelty product, after which a chart will render detailing their top choices.",
         "images": [
-          "images/portfolio/OD_img1.jpeg",
-          "images/portfolio/OD_img2.png",
-          "images/portfolio/OD_img3.png"
+          "images/portfolio/OD_img1.png",
+          "images/portfolio/OD_img2.jpeg",
+          "images/portfolio/OD_img3.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://dashing-scone-c94deb.netlify.app",
         "technologies": [
           
   
@@ -51,9 +51,10 @@
         "description": "An app that allows users to search for an artist's top songs and add items to a customized playlist.",
         "images": [
           "images/portfolio/JJ_img1.jpeg",
+          "images/portfolio/JJ_img5.png",
           "images/portfolio/JJ_img2.jpeg",
           "images/portfolio/JJ_img3.jpeg",
-          "images/portfolio/JJ_img4.jng"
+          "images/portfolio/JJ_img4.png"
         ],
         "url": "https://jarjarbeats.netlify.app",
         "technologies": [

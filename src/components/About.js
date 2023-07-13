@@ -44,6 +44,7 @@ class About extends Component {
                     icon={mongodbIcon}
                     style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
+
                 </span>
               </div>
             </div>

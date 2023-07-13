@@ -29,13 +29,13 @@
       {
         "title": "City Explorer API",
         "startDate": "April 2023",
-        "description": "Personal study project for Code Fellows that allows a user to vote 25 times on a favorite novelty product, after which a chart will render detailing their top choices.",
+        "description": "A webpage using APIs that will allow you to search for a map and list of movies of any US city. Simply type in a city to exlore, and the APIs will do the rest for you!",
         "images": [
           "images/portfolio/OD_img1.png",
           "images/portfolio/OD_img2.jpeg",
           "images/portfolio/OD_img3.jpeg"
         ],
-        "url": "https://dashing-scone-c94deb.netlify.app",
+        "url": "https://americancity-api.netlify.app",
         "technologies": [
           
   
@@ -68,8 +68,8 @@
           },
 
           {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
+            "class": "devicon--plain",
+            "name": ""
           },
         {
           "class": "devicon-auth0-plain",

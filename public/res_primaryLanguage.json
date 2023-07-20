@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Dynamic Self Starter from Florida!",
-      "description": "👋 Hello everyone! My name is Tiffani Rice and I am a full stack developer currently living in the greater Seattle area. I possess 7 years of prior experience with aviation companies, such as General Electric, specializing in large scale, project coordination, personnel management, and customer support. In March, I made a switch into studying tech because I wanted a career that would intellectually keep me stimulated and after completing the full stack course at CodeFellows, I can safely say that I have found JUST THAT in being a developer. When I am not studing software deveopement, my relaxation go tos are exploring beautiful Washington parks, watching TikToks for a questionable amout of time, or listening to true crime or comedy podcasts ",
+      "description_header": "Dynamic Self Starter!",
+      "description": "Hello everyone! 👋 Firstly, thank you for viewing my portfolio website. I am a full stack developer originally from Florida currently living in the greater Seattle area. I possess 7 years of prior experience managing aviation inventory specializing in large scale, project coordination, personnel management, and customer support. I made a switch into studying tech because I wanted a career that would intellectually keep me stimulated and after completing the full stack course at CodeFellows, I can safely say that I have found JUST THAT in being a developer. Please see the bottom of the screen for all of my socials and contact information!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -80,15 +80,33 @@
       }
     ],
     "experience": [
+
+      {
+        "company": "Quizzy.News",
+        "title": "Full Stack Developer",
+        "years": "6.2023 - current",
+        "mainTech": [
+          "Tech Industry"
+        ],
+        "technologies": [
+          "React",
+          "Figma",
+          "Contentful",
+          "Trello",
+          "Github"
+        ]
+      },
+
       {
         "company": "Reliance Aerotech Services",
         "title": "Warehouse Manager",
         "years": "8.2020 - 2.2023",
         "mainTech": [
-          ""
+          "Aviation Industry"
         ],
         "technologies": [
-    
+         "Salesforce",
+         "Microsoft Products"
         ]
       },
 
@@ -97,10 +115,11 @@
         "title": "Account Manager",
         "years": "09.2019 - 03.2020",
         "mainTech": [
-          ""
+          "Aviation Industry"
         ],
         "technologies": [
-      
+          "Pentagon Software",
+          "Google Docs"
         ]
       }, 
 
@@ -109,10 +128,10 @@
         "title": "Order Manager",
         "years": "3.2017 - 7.2019",
         "mainTech": [
-          ""
+          "Aviation Industry"
         ],
         "technologies": [
-    
+          "Quantum Software"
         ]
       },
 
@@ -121,7 +140,7 @@
         "title": "'Aprons' Meals Associate",
         "years": "10.2015 - 5.2017",
         "mainTech": [
-          ""
+          "Customer Service"
         ],
         "technologies": [
     
@@ -133,7 +152,7 @@
         "title": "Member Service Representative",
         "years": "01.2014 - 10.2014",
         "mainTech": [
-          ""
+          "Customer Service"
         ],
         "technologies": [
     

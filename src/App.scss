@@ -91,6 +91,7 @@ header .nav {
 	border-radius: 0 0 5px 5px;
 	background-color: #ffffff;
 	color: #735d78;
+	
 }
 
 .skills-tile {
@@ -149,7 +150,7 @@ header h1 {
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 23px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -163,7 +164,6 @@ header h1 {
 
 .foto div {
 	background: #d1b3c4;
-	border: 2px solid black;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -177,6 +177,7 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	
 }
 
 .foto div:after {
@@ -204,6 +205,7 @@ header h1 {
 	letter-spacing: 3px;
 	color: rgb(0, 0, 0);
 	text-align: center;
+
 }
 
 .polaroid img {
@@ -212,11 +214,8 @@ header h1 {
 }
 
 .polaroid span {
-	// background: #ffffff;
 	background: #658ba3;
-	// border: 2px solid rgb(128, 127, 127);
 	display: inline-block;
-	// margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
 	text-align: center;
 	text-decoration: none;
@@ -226,14 +225,16 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	margin-left:110px;
 }
 
 .link-href {
 	color: black;
+	
 }
 
 .wave {
-	font-size: 160%;
+	font-size: 200%;
 }
 
 .font-trebuchet {
@@ -287,11 +288,13 @@ header h1 {
 }
 
 .vertical-timeline-element-date {
-	margin: 5px;
-	font-weight: bolder;
+	margin: 15px;
+	font-weight:600 !important;
 	font-size: 35px;
-	padding: 5px;
-	color: rgb(0, 0, 0);
+	padding: 25px;
+	color: rgb(255, 255, 255);
+
+
 }
 
 @media only screen and (max-width: 1170px) {
@@ -334,6 +337,8 @@ header h1 {
 	font-weight: normal;
 	position: relative;
 	top: -36px;
+	// border: 3px solid black;
+
 }
 
 .bar-expand {
@@ -347,6 +352,7 @@ header h1 {
 	height: 42px;
 	line-height: 42px;
 	border-radius: 3px 0 0 3px;
+	
 }
 
 .modal-close {
@@ -377,6 +383,7 @@ header h1 {
 
 .loader-bar-color {
 	color: black !important;
+	
 }
 
 #portfolio {
@@ -388,6 +395,7 @@ header h1 {
 	max-width: 100%;
 	margin-bottom: 15px;
 	text-align: center;
+	
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -432,6 +440,7 @@ header h1 {
 	letter-spacing: 3px;
 	color: #fff !important;
 	text-align: center;
+	
 }
 
 .skill-icon {
@@ -475,5 +484,5 @@ footer a:focus {
 }
 
 .section-title span {
-	color: white !important;
+	color: rgb(255, 255, 255) !important;
 }

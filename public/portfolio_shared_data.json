@@ -19,6 +19,16 @@
           "name": "Leetcode",
           "url": "https://leetcode.com/tiffaknee",
           "class": "fa fa-binoculars"
+        },
+        {
+        "name": "Resume",
+        "url": "https://docs.google.com/document/d/16lMkrhrnBoHa6YjuhsNNLhRTJwbU3pDqDLlo07Nbeac/edit",
+        "class": "fa fa-envelope"
+        },
+        {
+          "name": "Code Fellows",
+          "url": "https://www.codefellows.org/courses/code-301/intermediate-software-development",
+          "class": "fa fa-graduation-cap" 
         }
       ],
       "image": "PFP_new.jpg"

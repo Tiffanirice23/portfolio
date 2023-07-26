@@ -11,6 +11,25 @@
     },
     "projects": [
       {
+        "title": "City Explorer API",
+        "startDate": "April 2023",
+        "description": "A webpage using APIs that will allow you to search for a map and list of movies of any US city. Simply type in a city to exlore, and the APIs will do the rest for you!",
+        "images": [
+          "images/portfolio/OD_img2.jpeg",
+          "images/portfolio/OD_img1.png",
+          "images/portfolio/OD_img3.jpeg"
+        ],
+        "url": "https://americancity-api.netlify.app",
+        "technologies": [
+          
+          
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "TheLazyTravelers",
         "startDate": "April 2023",
         "description": "The most expanded application I had opportunity to work with, in a team environment at Code Fellows. This application allows users to view vaious vacation images, and vote on their favorite spot! Once voting has commenced, the user will be able to view details on the location, as well as information on how to book a flight and rent a hotel in that area. ",
@@ -27,32 +46,13 @@
         ]
       },
       {
-        "title": "City Explorer API",
-        "startDate": "April 2023",
-        "description": "A webpage using APIs that will allow you to search for a map and list of movies of any US city. Simply type in a city to exlore, and the APIs will do the rest for you!",
-        "images": [
-          "images/portfolio/OD_img1.png",
-          "images/portfolio/OD_img2.jpeg",
-          "images/portfolio/OD_img3.jpeg"
-        ],
-        "url": "https://americancity-api.netlify.app",
-        "technologies": [
-          
-  
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
         "title": "JarJar Beats",
         "startDate": "June 2023",
         "description": "An app that allows users to search for an artist's top songs and add items to a customized playlist.",
         "images": [
+          "images/portfolio/JJ_img2.jpeg",
           "images/portfolio/JJ_img1.jpeg",
           "images/portfolio/JJ_img5.png",
-          "images/portfolio/JJ_img2.jpeg",
           "images/portfolio/JJ_img3.jpeg",
           "images/portfolio/JJ_img4.png"
         ],

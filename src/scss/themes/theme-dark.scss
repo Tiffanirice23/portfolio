@@ -115,9 +115,13 @@ body[data-theme="dark"] {
       }
 
       .experience-badge {
-         background: #919191 !important;
-         color: white;
+         background: rgb(0, 0, 0) !important;
+         color: #e8dfe4 !important;
+         font-size: 12px !important;
+         font-weight: 600 !important;
+        
       }
+
 
       .main-badge {
          background: #919191 !important;

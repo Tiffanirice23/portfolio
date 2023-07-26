@@ -42,7 +42,7 @@ html {
 .header-icon {
 	height: 250px;
 	width: 250px;
-	color: #735d78;
+	color: #fffdff;
 	
 }
 
@@ -90,7 +90,7 @@ header .nav {
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
 	background-color: #ffffff;
-	color: #735d78;
+	color: rgb(6, 138, 209);
 	
 }
 
@@ -113,7 +113,7 @@ header h1 {
 	font-size: 4rem;
 	// text-align: center;
 	font-weight: 800 !important;
-	background-image: linear-gradient(to left, #38b0e7, #022565);
+	background-image: linear-gradient(to left,#e4e4e4, #196d94, #196d94,#8069b1, #8069b1,#e4e4e4);
   background-clip: text;
   -webkit-background-clip: text; /* For Safari/Chrome */
   color: transparent;
@@ -144,7 +144,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #735d78;
 	overflow: hidden;
 }
 
@@ -155,6 +155,7 @@ header h1 {
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
+	text-decoration: underline;
 }
 
 .foto img {
@@ -163,7 +164,7 @@ header h1 {
 }
 
 .foto div {
-	background: #d1b3c4;
+	background: #d4d4d4;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -214,7 +215,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #658ba3;
+	background: #d3d2d1;
 	display: inline-block;
 	padding: 15px 15px 30px;
 	text-align: center;
@@ -292,7 +293,7 @@ header h1 {
 	font-weight:600 !important;
 	font-size: 35px;
 	padding: 25px;
-	color: rgb(255, 255, 255);
+	color: #030303;
 
 
 }
@@ -306,7 +307,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: #d1b3c4;
+	background: #d4d4d4;
 }
 
 .bars {
@@ -445,7 +446,7 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: rgb(255, 255, 255);
 	text-align: center;
 	position: relative;
 }
@@ -484,5 +485,8 @@ footer a:focus {
 }
 
 .section-title span {
-	color: rgb(255, 255, 255) !important;
+	color: rgb(249, 249, 249) !important;
+	text-decoration: underline;
+	font-weight: 400;
+	
 }

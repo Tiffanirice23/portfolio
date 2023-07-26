@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Dynamic Self Starter!",
+      "description_header": "Adaptable Self Starter!",
       "description": "Hello everyone! 👋 Firstly, thank you for viewing my portfolio website. I am a full stack developer originally from Florida currently living in the greater Seattle area. I possess 7 years of prior experience managing aviation inventory specializing in large scale, project coordination, personnel management, and customer support. I made a switch into studying tech because I wanted a career that would intellectually keep me stimulated and after completing the full stack course at CodeFellows, I can safely say that I have found JUST THAT in being a developer. Please see the bottom of the screen for all of my socials and contact information!",
       "section_name": {
         "about": "About me",
@@ -86,7 +86,7 @@
         "title": "Full Stack Developer",
         "years": "6.2023 - current",
         "mainTech": [
-          "Tech Industry"
+          ""
         ],
         "technologies": [
           "React",
@@ -102,7 +102,7 @@
         "title": "Warehouse Manager",
         "years": "8.2020 - 2.2023",
         "mainTech": [
-          "Aviation Industry"
+          ""
         ],
         "technologies": [
          "Salesforce",
@@ -115,7 +115,7 @@
         "title": "Account Manager",
         "years": "09.2019 - 03.2020",
         "mainTech": [
-          "Aviation Industry"
+          ""
         ],
         "technologies": [
           "Pentagon Software",
@@ -128,7 +128,7 @@
         "title": "Order Manager",
         "years": "3.2017 - 7.2019",
         "mainTech": [
-          "Aviation Industry"
+          ""
         ],
         "technologies": [
           "Quantum Software"
@@ -140,7 +140,7 @@
         "title": "'Aprons' Meals Associate",
         "years": "10.2015 - 5.2017",
         "mainTech": [
-          "Customer Service"
+          ""
         ],
         "technologies": [
     
@@ -152,7 +152,7 @@
         "title": "Member Service Representative",
         "years": "01.2014 - 10.2014",
         "mainTech": [
-          "Customer Service"
+          ""
         ],
         "technologies": [
     
